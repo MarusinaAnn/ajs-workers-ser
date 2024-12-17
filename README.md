@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "12. WebWorkers, ServiceWorkers"
 
-web page: https://unker.github.io/ahj-homeworks-workers-web/
+web page: https://marusinaann.github.io/ajs-workers-page/
 
 Правила сдачи задания:
 
